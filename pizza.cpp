@@ -10,7 +10,7 @@ int main(){
     std::cout << "I don't fucking know man!";
 else 
     std::cout << "That's equal to " << (inches/12) << " feet.";
-
+ //hhhhhhhhhhhhhhhhhhhellp
     return 0;
 
 }
